@@ -1,7 +1,7 @@
 # SaveThePenguins
 Yo, hello
 so basically this is my game that i made.
-It was for my personal project and digital technology project
+It was for my personal project (a very stoopid thing we had to do) and digital technology project
 (two birds with one stone, im a genius, i know)
 
 Ok, so about the game
