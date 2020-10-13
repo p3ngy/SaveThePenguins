@@ -14,4 +14,11 @@ anyway, many people have said it is fun
 so maybe you will enjoy it too
 also there is a bonus level to find
 
+install instructions:
+---------------------
+download the files with the big green button at the top of the page
+unzip the files into the same folder
+run the .exe file
+if you have mac, succ in
+
 -p3ngy
